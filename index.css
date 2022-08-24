@@ -1,6 +1,15 @@
-h1 {
-	text-align: center;
+body{
+	background: #00FF00;
 }
+
+h1 {
+	text-align: center;color: #2F4F4F;
+}
+
+p{
+	text-align: center;color: 	#FF8C00;
+}
+
 #banner {
-	width: 100%;
+	width: 50%;
 }
