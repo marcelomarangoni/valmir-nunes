@@ -13,4 +13,7 @@ p{
 #capa {
 	width: 50%;
 	height: 100%;
+	margin-left:1px;
+	border: solid;
+	color: #000000;
 }
